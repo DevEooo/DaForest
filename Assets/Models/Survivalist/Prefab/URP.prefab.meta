@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 64c6f49a3779eb14ba1e01898abc0280
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/Prefab/URP.prefab
+  uploadId: 762486

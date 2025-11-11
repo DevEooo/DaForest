@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da75d0a1a579cd94b928a87d0ddb9308
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Source/Materials/URP/Leaves/Birch/Birch_Leaves_2.mat
+  uploadId: 519026

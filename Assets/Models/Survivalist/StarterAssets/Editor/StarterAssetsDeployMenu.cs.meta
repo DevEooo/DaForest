@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e75357183ea302c4d998136de2cc9669
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/StarterAssets/Editor/StarterAssetsDeployMenu.cs
+  uploadId: 762486

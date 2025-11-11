@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ea487e895f4abe4faae80136f50a5b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/Materials HDRP/New Universal Render Pipeline Asset_Renderer.asset
+  uploadId: 762486

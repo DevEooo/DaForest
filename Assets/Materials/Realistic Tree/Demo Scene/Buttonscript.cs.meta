@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7dac93fdda18c9a4e83e4515bf51df9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Demo Scene/Buttonscript.cs
+  uploadId: 519026

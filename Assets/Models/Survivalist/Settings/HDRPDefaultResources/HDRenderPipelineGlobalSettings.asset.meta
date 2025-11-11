@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9037c46a96e8e0a4b9d583be473c8f48
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/Settings/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset
+  uploadId: 762486

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2d45e066ede448543a97c655d6313a60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Demo Scene/Rotate.cs
+  uploadId: 519026

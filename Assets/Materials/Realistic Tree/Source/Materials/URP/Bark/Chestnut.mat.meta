@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b04c48f9a93c3504db4e07eec1d84284
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Source/Materials/URP/Bark/Chestnut.mat
+  uploadId: 519026

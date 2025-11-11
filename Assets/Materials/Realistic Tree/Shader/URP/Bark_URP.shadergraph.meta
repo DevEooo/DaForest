@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 348bd9f3b5930a9438098fcf840343c4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Shader/URP/Bark_URP.shadergraph
+  uploadId: 519026

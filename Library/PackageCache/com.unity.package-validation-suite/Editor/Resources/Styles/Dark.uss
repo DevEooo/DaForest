@@ -1,0 +1,44 @@
+#ValidationSuiteUIContainer {
+  flex-direction: row;
+}
+#ValidationSuiteUIContainer #ValidationActionContainer {
+  flex: 1;
+  flex-direction: row;
+  align-items: center;
+}
+#ValidationSuiteUIContainer #ValidationTypeDropdown {
+  opacity: 0;
+  max-width: 25px;
+  position: absolute;
+  left: 85px;
+}
+#ValidationSuiteUIContainer #ValidateTypeDownArrow {
+  font-size: 9px;
+  max-width: 20px;
+  height: 19px;
+  position: absolute;
+  left: 85px;
+}
+#ValidationSuiteUIContainer #ValidationResultsContainer {
+  flex: 0;
+  flex-direction: row;
+  min-width: 225px;
+}
+#ValidationSuiteUIContainer #ValidationActionContainer #validateButton {
+  flex: 0;
+  min-width: 80px;
+  max-width: 80px;
+}
+#ValidationSuiteUIContainer #ValidationActionContainer Label {
+  flex: 1;
+  max-width: 125px;
+  left: 20px;
+}
+#ValidationSuiteUIContainer #ValidationResultsContainer Button {
+  flex: 0;
+  min-width: 100px;
+}
+
+#ValidationSuiteUIContainer #ValidationResultsContainer Button.display-none {
+  min-width: 0;
+}

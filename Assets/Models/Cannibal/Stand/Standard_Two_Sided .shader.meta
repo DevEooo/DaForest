@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 371b9222b77373b4a825f07da1c3fa3b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270018
+  packageName: SkinnyOrc6
+  packageVersion: 1.0
+  assetPath: Assets/SkinnyOrc6/Stand/Standard_Two_Sided .shader
+  uploadId: 625859

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 035023331dbb59f40832fd4d54e4957e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
+  uploadId: 762486

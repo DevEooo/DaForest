@@ -1,0 +1,25 @@
+{
+    "name": "Unity.PackageValidationSuite.Editor",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Unity.APIComparison.Framework.dll",
+        "Mono.Cecil.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.package-manager-ui.develop",
+            "expression": "",
+            "define": "UNITY_PACKAGE_MANAGER_DEVELOP_EXISTS"
+        }
+    ],
+    "noEngineReferences": false
+}

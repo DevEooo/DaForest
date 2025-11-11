@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c45aeabfdfc23414d8adb56e7f18f26d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229716
+  packageName: Realistic Tree Pack 1
+  packageVersion: 1.0
+  assetPath: Assets/Realistic Tree/Shader/HDRP/Leaves_HDRP.shadergraph
+  uploadId: 519026

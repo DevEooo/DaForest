@@ -1,0 +1,23 @@
+{
+    "name": "Unity.PackageValidationSuite.Editor.Extension",
+    "references": [
+        "Unity.PackageValidationSuite.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.upm.develop",
+            "expression": "",
+            "define": "UNITY_PACKAGE_MANAGER_DEVELOP_EXISTS"
+        }
+    ],
+    "noEngineReferences": false
+}

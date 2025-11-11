@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 236e0eaef38be134d84e035ba9c9b3f3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/Prefab/Environment/Greybox.prefab
+  uploadId: 762486

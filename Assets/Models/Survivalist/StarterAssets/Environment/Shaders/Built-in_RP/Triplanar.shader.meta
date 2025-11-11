@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e61aeb7487ccb5e4fb6d45036e33fb7b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 181470
+  packageName: Survivalist character
+  packageVersion: 1.2
+  assetPath: Assets/Survivalist/StarterAssets/Environment/Shaders/Built-in_RP/Triplanar.shader
+  uploadId: 762486
