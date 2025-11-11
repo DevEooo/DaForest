@@ -1,0 +1,19 @@
+[Libraries and temporary files]
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+
+[Visual Studio]
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
