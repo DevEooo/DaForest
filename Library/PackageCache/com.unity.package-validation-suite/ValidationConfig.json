@@ -1,9 +1,0 @@
-{
-    "SDKFilesValidation":
-    {
-        "ManifestIgnore":
-        [
-            "*/System.Threading.Tasks.Dataflow.dll"
-        ]
-    }
-}
