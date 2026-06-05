@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="800" alt="Hook 1" src="https://github.com/user-attachments/assets/9ad28e5f-c0f4-4a00-b14c-956fd9acdc25" /><img width="600" height="750" alt="Hook 2" src="https://github.com/user-attachments/assets/d718d1ba-095a-42e2-a34f-6bb800ee8d0e" />
+  <img width="600" height="400" alt="Hook 1" src="https://github.com/user-attachments/assets/9ad28e5f-c0f4-4a00-b14c-956fd9acdc25" /><img width="600" height="450" alt="Hook 2" src="https://github.com/user-attachments/assets/d718d1ba-095a-42e2-a34f-6bb800ee8d0e" />
 </p>
 
 <br>
