@@ -4,6 +4,15 @@
 
 <br>
 
+<p align="center">
+    <a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/unity-v6?logo=unity"></a>
+    <a href=""><img src="https://img.shields.io/badge/customtkinter-blue?logo=customtkinter"></a>
+    <a href=""><img src="https://img.shields.io/badge/license-MIT-green"></a>
+</p>
+
+---
+
 ## About DaForest
 
 <b>DaForest</b> is a first-person, 3D survival horror game built in Unity, heavily inspired by Endnight Games' *The Forest*. 
