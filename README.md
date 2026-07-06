@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">
-    <a href=""><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/unity-v6?logo=unity"></a>
-    <a href=""><img src="https://img.shields.io/badge/customtkinter-blue?logo=customtkinter"></a>
+    <a href=""><img src="https://img.shields.io/badge/Language-C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/Unity-6000.0.34f1-000?logo=unity"></a>
+    <a href=""><img src="https://img.shields.io/badge/Platform-Windows-blue"></a>
     <a href=""><img src="https://img.shields.io/badge/license-MIT-green"></a>
 </p>
 
